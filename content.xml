@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260520091653V5FIKH</value>
+    <value>202605211329198F6AGH</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260520091653GKCTLY</value>
+    <value>202605211329192J8YWS</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779261399894</value>
+    <value>1779350185155</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpdqag0z-exmqp9rzn</odePageId>
+  <odePageId>page-mpf75pp9-2wj9vwr0s</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Proyecto El Gran Circo de las Mariposas</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag0z-exmqp9rzn</odePageId>
+      <odePageId>page-mpf75pp9-2wj9vwr0s</odePageId>
       <odeBlockId>block-1779032278070-1jhuz249v</odeBlockId>
       <blockName>El Proyecto</blockName>
       <iconName></iconName>
@@ -146,7 +146,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag0z-exmqp9rzn</odePageId>
+          <odePageId>page-mpf75pp9-2wj9vwr0s</odePageId>
           <odeBlockId>block-1779032278070-1jhuz249v</odeBlockId>
           <odeIdeviceId>idevice-1779032278068-jhw34hjze</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -177,8 +177,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1e-w9bat8cqa</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppc-z9dckk0bn</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🎯 ¿Qué vamos a aprender?</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -213,7 +213,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1e-w9bat8cqa</odePageId>
+      <odePageId>page-mpf75ppc-z9dckk0bn</odePageId>
       <odeBlockId>block-1779032573271-8d45oqhex</odeBlockId>
       <blockName>Aprendemos...</blockName>
       <iconName></iconName>
@@ -242,7 +242,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1e-w9bat8cqa</odePageId>
+          <odePageId>page-mpf75ppc-z9dckk0bn</odePageId>
           <odeBlockId>block-1779032573271-8d45oqhex</odeBlockId>
           <odeIdeviceId>idevice-1779032573269-fv5jfwoh7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -274,8 +274,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1g-551230ymo</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppd-y0njgvwp7</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🎭 Nuestro reto</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -310,7 +310,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1g-551230ymo</odePageId>
+      <odePageId>page-mpf75ppd-y0njgvwp7</odePageId>
       <odeBlockId>block-1779032815854-4y2xy839j</odeBlockId>
       <blockName>El producto final</blockName>
       <iconName></iconName>
@@ -339,7 +339,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1g-551230ymo</odePageId>
+          <odePageId>page-mpf75ppd-y0njgvwp7</odePageId>
           <odeBlockId>block-1779032815854-4y2xy839j</odeBlockId>
           <odeIdeviceId>idevice-1779032815852-rm2xquhhf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -370,8 +370,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1i-grtrvy8aj</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppd-yp8xv0l0t</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🗓️ Trabajamos paso a paso</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -406,7 +406,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1i-grtrvy8aj</odePageId>
+      <odePageId>page-mpf75ppd-yp8xv0l0t</odePageId>
       <odeBlockId>block-1779032880630-3t8fjw3l0</odeBlockId>
       <blockName>Paso a paso</blockName>
       <iconName></iconName>
@@ -435,7 +435,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1i-grtrvy8aj</odePageId>
+          <odePageId>page-mpf75ppd-yp8xv0l0t</odePageId>
           <odeBlockId>block-1779032880630-3t8fjw3l0</odeBlockId>
           <odeIdeviceId>idevice-1779032880628-k4phrhirg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -474,8 +474,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1k-waf30vkyi</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppe-mfu2xk3uk</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>📚 Recursos para aprender</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -510,7 +510,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1k-waf30vkyi</odePageId>
+      <odePageId>page-mpf75ppe-mfu2xk3uk</odePageId>
       <odeBlockId>block-1779033084622-ktvhteik1</odeBlockId>
       <blockName>Recursos para el alumnado</blockName>
       <iconName></iconName>
@@ -539,7 +539,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1k-waf30vkyi</odePageId>
+          <odePageId>page-mpf75ppe-mfu2xk3uk</odePageId>
           <odeBlockId>block-1779033084622-ktvhteik1</odeBlockId>
           <odeIdeviceId>idevice-1779033084621-bz17nqp70</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -547,7 +547,7 @@
     <p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>
 <p>Pincha aquí: <a href="-recursos-para-aprender.html" title="Recursos">RECURSOS</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779033084621-bz17nqp70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>\n<p>Pincha aquí: <a href=\"exe-node:page-mpdqag1k-waf30vkyi\" title=\"Recursos\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779033084621-bz17nqp70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Recursos del proyecto</strong></em><br />En este espacio encontrarás vídeos, cuentos, imágenes y recursos que te ayudarán a crear tu historia.</p>\n<p>Pincha aquí: <a href=\"exe-node:page-mpf75ppe-mfu2xk3uk\" title=\"Recursos\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -569,8 +569,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1l-r21n5k35t</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppf-060y3934h</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🌐 Usamos internet de forma segura</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -605,7 +605,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1l-r21n5k35t</odePageId>
+      <odePageId>page-mpf75ppf-060y3934h</odePageId>
       <odeBlockId>block-1779033215880-ub7bdgncp</odeBlockId>
       <blockName>Navegamos seguros</blockName>
       <iconName></iconName>
@@ -634,7 +634,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1l-r21n5k35t</odePageId>
+          <odePageId>page-mpf75ppf-060y3934h</odePageId>
           <odeBlockId>block-1779033215880-ub7bdgncp</odeBlockId>
           <odeIdeviceId>idevice-1779033215878-0pnsm9rf0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -666,8 +666,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1n-5cjlaegoa</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppg-n7eta8ci4</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>📊 ¿Cómo vamos a evaluar?</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -702,7 +702,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1n-5cjlaegoa</odePageId>
+      <odePageId>page-mpf75ppg-n7eta8ci4</odePageId>
       <odeBlockId>block-1779033402669-i3qodd1js</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -731,7 +731,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1n-5cjlaegoa</odePageId>
+          <odePageId>page-mpf75ppg-n7eta8ci4</odePageId>
           <odeBlockId>block-1779033402669-i3qodd1js</odeBlockId>
           <odeIdeviceId>idevice-1779033402669-r9rp7gw12</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -770,8 +770,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1q-6jq2y5omo</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppl-x6i4zv8oq</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🎯 Piensa sobre tu trabajo</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -806,7 +806,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1q-6jq2y5omo</odePageId>
+      <odePageId>page-mpf75ppl-x6i4zv8oq</odePageId>
       <odeBlockId>block-1779034239462-unhzoadco</odeBlockId>
       <blockName>Reflexión final</blockName>
       <iconName></iconName>
@@ -835,7 +835,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1q-6jq2y5omo</odePageId>
+          <odePageId>page-mpf75ppl-x6i4zv8oq</odePageId>
           <odeBlockId>block-1779034239462-unhzoadco</odeBlockId>
           <odeIdeviceId>idevice-1779034239460-t3wcex8h3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -866,8 +866,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1r-yuniwi5pz</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppo-onmj5tfyw</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>👩‍🏫 Guía didáctica</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -902,7 +902,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1r-yuniwi5pz</odePageId>
+      <odePageId>page-mpf75ppo-onmj5tfyw</odePageId>
       <odeBlockId>block-1779034320751-sdp878bir</odeBlockId>
       <blockName>Guía didáctica</blockName>
       <iconName></iconName>
@@ -931,7 +931,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1r-yuniwi5pz</odePageId>
+          <odePageId>page-mpf75ppo-onmj5tfyw</odePageId>
           <odeBlockId>block-1779034320751-sdp878bir</odeBlockId>
           <odeIdeviceId>idevice-1779034320749-sldekunr6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -969,8 +969,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1s-hx8g10f6e</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppq-nrwtswhjx</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>🧩 Recursos para docentes</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1005,7 +1005,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1s-hx8g10f6e</odePageId>
+      <odePageId>page-mpf75ppq-nrwtswhjx</odePageId>
       <odeBlockId>block-1779034830061-6farjte3n</odeBlockId>
       <blockName>Recursos para docentes</blockName>
       <iconName></iconName>
@@ -1034,7 +1034,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1s-hx8g10f6e</odePageId>
+          <odePageId>page-mpf75ppq-nrwtswhjx</odePageId>
           <odeBlockId>block-1779034830061-6farjte3n</odeBlockId>
           <odeIdeviceId>idevice-1779034830060-c8nvtqprg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1065,8 +1065,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpdqag1t-d5tbf17d9</odePageId>
-  <odeParentPageId>page-mpdqag0z-exmqp9rzn</odeParentPageId>
+  <odePageId>page-mpf75ppr-h5kg0l763</odePageId>
+  <odeParentPageId>page-mpf75pp9-2wj9vwr0s</odeParentPageId>
   <pageName>©️ Créditos</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1101,10 +1101,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpdqag1t-d5tbf17d9</odePageId>
+      <odePageId>page-mpf75ppr-h5kg0l763</odePageId>
       <odeBlockId>block-1779034972502-bzje1zw19</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName></iconName>
+      <blockName>Créditos</blockName>
+      <iconName>competencies</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1130,7 +1130,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpdqag1t-d5tbf17d9</odePageId>
+          <odePageId>page-mpf75ppr-h5kg0l763</odePageId>
           <odeBlockId>block-1779034972502-bzje1zw19</odeBlockId>
           <odeIdeviceId>idevice-1779034972501-zm11yhi5l</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1139,11 +1139,11 @@
 <p><br /><strong><em>Autora</em></strong><br />Sara Delgado Tirado</p>
 <p><strong><em>Proyecto</em></strong><br />El Gran Circo de las Mariposas</p>
 <p><strong><em>Nivel educativo</em></strong><br />4º de Educación Primaria</p>
-<p><strong><em>Licencia</em></strong><br />Creative Commons BY-NC-SA</p>
+<p><strong><em>Licencia</em></strong><br /> CC BY-SA 4.0</p>
 <p><strong><em>Recursos utilizados</em></strong><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet<br /></p>
 <p>Este proyecto ha sido creado con fines educativos.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779034972501-zm11yhi5l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Créditos</strong></em></p>\n<p><br /><strong><em>Autora</em></strong><br />Sara Delgado Tirado</p>\n<p><strong><em>Proyecto</em></strong><br />El Gran Circo de las Mariposas</p>\n<p><strong><em>Nivel educativo</em></strong><br />4º de Educación Primaria</p>\n<p><strong><em>Licencia</em></strong><br />Creative Commons BY-NC-SA</p>\n<p><strong><em>Recursos utilizados</em></strong><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet<br /></p>\n<p>Este proyecto ha sido creado con fines educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779034972501-zm11yhi5l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Créditos</strong></em></p>\n<p><br /><strong><em>Autora</em></strong><br />Sara Delgado Tirado</p>\n<p><strong><em>Proyecto</em></strong><br />El Gran Circo de las Mariposas</p>\n<p><strong><em>Nivel educativo</em></strong><br />4º de Educación Primaria</p>\n<p><strong><em>Licencia</em></strong><br /> CC BY-SA 4.0</p>\n<p><strong><em>Recursos utilizados</em></strong><br />-Canva<br />-Pixabay<br />-Freepik<br />-YouTube<br />-Padlet<br /></p>\n<p>Este proyecto ha sido creado con fines educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1158,6 +1158,50 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf75ppr-h5kg0l763</odePageId>
+      <odeBlockId>block-1779350249233-nllvmvhin</odeBlockId>
+      <blockName>Archivo editable del proyecto</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf75ppr-h5kg0l763</odePageId>
+          <odeBlockId>block-1779350249233-nllvmvhin</odeBlockId>
+          <odeIdeviceId>idevice-1779350249228-qygnp997f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El archivo editable del recurso en formato eXeLearning (.elp) está disponible para su descarga en el siguiente enlace:[Añadir aquí el enlace de GitHub]</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350249228-qygnp997f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo editable del recurso en formato eXeLearning (.elp) está disponible para su descarga en el siguiente enlace:[Añadir aquí el enlace de GitHub]</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
